@@ -1,0 +1,12 @@
+find index method o 
+parameter hishebe
+currentvalue, index, arr nibe
+
+
+findindex ar find er vitore diff
+hocche
+------------------
+findindex hocche amader k index ta return kore
+
+ar jodi shei index ta na thake
+shei khetre -1 return kore
